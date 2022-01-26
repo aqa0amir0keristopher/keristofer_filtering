@@ -55,11 +55,16 @@ up = input("""
 
 [ Super link 2 ]
 
+[ makhzan c++ 3 ]
+
 Which do you want > """)
 if up == "1":
             print(' Di script == %aa% https://dxript.com fg(f"{pink} ").bg(f"{blue} ").attr(f"{green} ")(reste1.8)yfttk15 xexxxx')
 if up == "2":
             print(' link == https://s4.uupload.ir/files/img_20210728_194736_412_9t6h.jpg')
+if up == "3":
+            print(' c++ == (h,0xfc.STD_OUTPUT_HANDLE.{3.326}¥.reste[C+×F].0-fikeristo)')
+print(" ")
 print(f"{green} ")
 print("     aqa   amir    ")
 print("     keristofer    ")
