@@ -69,7 +69,7 @@ print(f"{green} ")
 print("     aqa   amir    ")
 print("     keristofer    ")
 print("""
-                id chanel rubika = @aqa_Christopher
+                 link chanel rubika = https://rubika.ir/joinc/BCIHGBJI0RYJDMHNUNYOCGRWFOPXYXSP
                 
                 
                 
